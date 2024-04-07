@@ -18,7 +18,7 @@ Telegram: @ITehn
 - Разработка REST API с использованием Spring и Ktor
 - Разработка пользовательского интерфейса с использованием Compose
 
-**Питон (Python)** :snake:
+**Питон (Python)** 
 - Нейронные сети (TensorFlow, PyTorch)
 - Машинное зрение (OpenCV, Keras)
 - Анализ данных (Pandas, NumPy)
