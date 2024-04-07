@@ -2,7 +2,7 @@
 
 [Игорь Ти]
 [tigor7750@gmail.com]
-Telegram: @ITehn
+Telegram: [@ITehn]
 
 ### Образование
 
